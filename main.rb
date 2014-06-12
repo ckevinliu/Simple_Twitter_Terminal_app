@@ -49,7 +49,7 @@ puts "******* Welcome to Twitter on Terminal! *******"
 puts "This simple terminal app will let you input a twitter user handle fetch the last 10 tweets"
 puts "from that account. This is a Kevin Liu 2014 Production."
 puts
-puts "Please enter your twitter handle (without the @): "
+puts "Please enter your twitter handle: "
 user_input = gets.chomp
 puts
 
